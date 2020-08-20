@@ -1,6 +1,6 @@
 # FUN COMMANDS
 
-**advice**-suggest**-Gives u a suggestion.
+**advice**-Gives u a suggestion.
 
 **ascii**-A fun Command.
 
