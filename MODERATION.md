@@ -4,7 +4,7 @@
 
 **removerole**-Removes the mentioned role to mentioned user.
 
-clear[purge]**-Clears the mentioned messge usage {h!clear :number:}.
+**clear[purge]**-Clears the mentioned messge usage {h!clear :number:}.
 
 **ban**-Bans the mentioned User
 
