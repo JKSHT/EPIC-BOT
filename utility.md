@@ -1,4 +1,4 @@
-# INFORMATION COMMANDS
+# UTILITY COMMANDS
 
 **avatar**-Gives you mentioned user avatar.
 
